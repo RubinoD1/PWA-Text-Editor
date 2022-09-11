@@ -1,6 +1,6 @@
-# Text Editor Starter Code
+# PWA: Text Editor 
 
-GitHub Repository: 
+GitHub Repository: https://github.com/RubinoD1/PWA-Text-Editor
 
 ## Introduction 
 
@@ -49,3 +49,5 @@ SO THAT I can reliably retrieve them for later use
 
 12) WHEN I deploy to Heroku
 - THEN I should have proper build scripts for a webpack application
+
+## Screeenshots 
