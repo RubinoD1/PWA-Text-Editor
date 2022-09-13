@@ -2,6 +2,8 @@
 
 GitHub Repository: https://github.com/RubinoD1/PWA-Text-Editor
 
+Heroku: https://mighty-plateau-45177.herokuapp.com/
+
 ## Introduction 
 
 User Story
@@ -51,3 +53,9 @@ SO THAT I can reliably retrieve them for later use
 - THEN I should have proper build scripts for a webpack application
 
 ## Screeenshots 
+
+![Home page](./images/Homepage.png)
+
+![Using the text editor](./images/Text.png)
+
+![Service Worker offline](./images/Service%20Worker.png)
